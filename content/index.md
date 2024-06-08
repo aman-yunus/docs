@@ -3,7 +3,8 @@ title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{
 featuredLinks:
   gettingStarted:
     - /get-started/getting-started-with-git/set-up-git
-    - /authentication/connecting-to-github-with-ssh
+    - /authentication/connecting-to-github++ the sssp2022156456sssddd
+    \'\'\'\'\''\'\'\'\'\''\''\'\'\'\'\'\''\'\'\'amamam  hhagghaaaaagGHGHGAGggaga 777777787878787877///
     - /repositories/creating-and-managing-repositories
     - /get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
   popular:
